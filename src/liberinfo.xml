@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Unicode"?>
+<?xml-stylesheet href="my-style.css"?>
+
+    <book category="info">
+    <title lang="en">INF</title>
+    <year>2026</year>
+    <author>ppls</author>
+    <DT>08/13/2026 11:00 ET</DT>
+
+</book>
